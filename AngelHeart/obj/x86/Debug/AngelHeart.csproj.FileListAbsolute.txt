@@ -1,0 +1,15 @@
+c:\users\yamauchi\documents\visual studio 2010\Projects\AngelHeart\AngelHeart\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\yamauchi\documents\visual studio 2010\Projects\AngelHeart\AngelHeart\obj\x86\Debug\AngelHeart.pdb
+c:\users\yamauchi\documents\visual studio 2010\Projects\AngelHeart\AngelHeart\bin\Debug\AngelHeart.exe
+c:\users\yamauchi\documents\visual studio 2010\Projects\AngelHeart\AngelHeart\bin\Debug\AngelHeart.pdb
+c:\users\yamauchi\documents\visual studio 2010\Projects\AngelHeart\AngelHeart\obj\x86\Debug\AngelHeart.exe
+C:\Documents and Settings\yamauchi\デスクトップ\AngelHeart\AngelHeart\obj\x86\Debug\AngelHeart.exe
+C:\Documents and Settings\yamauchi\デスクトップ\AngelHeart\AngelHeart\obj\x86\Debug\AngelHeart.pdb
+C:\Documents and Settings\yamauchi\デスクトップ\AngelHeart\AngelHeart\bin\Debug\AngelHeart.exe
+C:\Documents and Settings\yamauchi\デスクトップ\AngelHeart\AngelHeart\bin\Debug\AngelHeart.pdb
+C:\Documents and Settings\yamauchi\デスクトップ\AngelHeart\AngelHeart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yamauchi\Desktop\AngelHeart\AngelHeart\obj\x86\Debug\AngelHeart.exe
+C:\Users\yamauchi\Desktop\AngelHeart\AngelHeart\obj\x86\Debug\AngelHeart.pdb
+C:\Users\yamauchi\Desktop\AngelHeart\AngelHeart\bin\Debug\AngelHeart.exe
+C:\Users\yamauchi\Desktop\AngelHeart\AngelHeart\bin\Debug\AngelHeart.pdb
+C:\Users\yamauchi\Desktop\AngelHeart\AngelHeart\obj\x86\Debug\ResolveAssemblyReference.cache
